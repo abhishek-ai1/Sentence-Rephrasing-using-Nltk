@@ -1,0 +1,3 @@
+#Library for use in project is as follows:
+1)NLTK
+2)spacy
